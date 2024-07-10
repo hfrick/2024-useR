@@ -188,7 +188,7 @@ Who is likely to stop being a customer _while we observe them?_
 
 
 
-# Why tidymodels?
+# tidymodels?
 
 ---
 
