@@ -385,6 +385,17 @@ pred_survival$.pred[[1]]
 
 ## tidymodels for time-to-event data
 
+. . .
+
+- Censored regression lets you use all the information you have together.
+
+. . .
+
+- tidymodels lets you do this within a well-designed framework for predictive modelling.
+
+
+## tidymodels for time-to-event data
+
 <br>
 
 ![](images/hex/tidymodels.png){.absolute top="466" left="902" width="180"} 

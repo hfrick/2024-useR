@@ -137,6 +137,13 @@
     "href": "index.html#tidymodels-for-time-to-event-data",
     "title": "tidymodels – Now also for time-to-event data!",
     "section": "tidymodels for time-to-event data",
+    "text": "tidymodels for time-to-event data\n\n\nCensored regression lets you use all the information you have together.\n\n\n\n\ntidymodels lets you do this within a well-designed framework for predictive modelling."
+  },
+  {
+    "objectID": "index.html#tidymodels-for-time-to-event-data-1",
+    "href": "index.html#tidymodels-for-time-to-event-data-1",
+    "title": "tidymodels – Now also for time-to-event data!",
+    "section": "tidymodels for time-to-event data",
     "text": "tidymodels for time-to-event data\n\n\nLearn more via\n\n\nArticles on tidymodels.org/learn with the survival analysis tag\n\n\n\n\nThe useR! tutorial: Survival analysis with tidymodels\n\n\nincluding a case study"
   }
 ]
